@@ -1,10 +1,4 @@
-"""CLI entry for the python-file-analyzer project.
 
-Usage:
-  python file_analyzer.py path/to/file
-
-This script detects file type by extension and runs appropriate analysis.
-"""
 import argparse
 import os
 import sys
