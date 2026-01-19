@@ -1,4 +1,3 @@
-#python file analyzer 
 import argparse
 import os
 import sys
